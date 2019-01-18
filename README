@@ -1,0 +1,4 @@
+
+
+Build Dependencies:
+	sudo apt-get install libwebsocketpp-dev libboost-all-dev
